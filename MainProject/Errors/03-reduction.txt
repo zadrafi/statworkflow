@@ -1,0 +1,3 @@
+Warning message:
+In rcspline.eval(z, knots = parms, nk = nk, inclx = TRUE) :
+  3 knots requested with 5 unique values of x.  knots set to 3 interior values.
